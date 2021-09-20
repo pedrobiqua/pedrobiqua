@@ -1,4 +1,4 @@
-### Hi guys, wellcome to my GitHub👋
+### Hi guys, welcome to my GitHub👋
 
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on EverRain and PixelArtProject
