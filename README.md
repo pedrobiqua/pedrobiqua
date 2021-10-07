@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on EverRain and PixelArtProject
 - 💬 Ask me about ...
 - 📫 How to reach me: pedrobiqua@outlook.com
-- 😄 Pronouns: Ele
 - ⚡ Fun fact: I like play games with my friends
 
 
