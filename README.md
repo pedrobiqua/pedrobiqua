@@ -5,7 +5,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: pedrobiqua@outlook.com
 - ⚡ Fun fact: I like play games with my friends
-- 👨‍💻 My portfolio: https://pedrobiqua.github.io/sitePessoal/
+- 👨‍💻 My portfolio:  <a href="https://pedrobiqua.github.io/sitePessoal/" target="_blank">My portfolio</a>
 
 
 <div>
