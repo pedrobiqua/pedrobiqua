@@ -1,6 +1,6 @@
 ### Hi guys, welcome to my GitHub👋
 
-- 🌱 I’m currently learning C# and Java
+- 🌱 I’m currently learning C#, Java and C++
 - 👯 I’m looking to collaborate on EverRain and PixelArtProject
 - 💬 Ask me about ...
 - 📫 How to reach me: pedrobiqua@outlook.com
