@@ -1,5 +1,5 @@
 ### Hi guys, welcome to my GitHub👋
-#<h3>みなさん、こんにちは。私のgithubへようこそ/<h3>
+<h3>みなさん、こんにちは。私のgithubへようこそ</h3>
 
 - 🌱 I’m currently learning C#, Java and C++
 - 👯 I’m looking to collaborate on EverRain and PixelArtProject
