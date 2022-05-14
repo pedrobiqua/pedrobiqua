@@ -1,7 +1,8 @@
 ### Hi guys, welcome to my GitHub👋
 <h3>みなさん、こんにちは。私のgithubへようこそ</h3>
 
-- 🌱 I’m currently learning C#, Java, C++ and JavaScript
+- 🌱 I’m currently learning C#, Java, C++
+- 🧑‍💻 I'm currently work with this languages PHP and JavaScript/Html/Css 
 - 👯 I’m looking to collaborate on EverRain and PixelArtProject
 - 💬 Ask me about ...
 - 📫 How to reach me: pedrobiqua@outlook.com
