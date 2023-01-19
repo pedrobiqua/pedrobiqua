@@ -14,8 +14,16 @@
 <div>
   <a href="https://github.com/pedrobiqua">
 </div>
+
+<div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobiqua&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobiqua&show_icons=true)
+  
+  <br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobiqua)](https://github.com/pedrobiqua/github-readme-stats)
+  
+</div>
 
 #### :computer: Most used technologies:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
