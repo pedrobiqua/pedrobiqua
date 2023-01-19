@@ -13,9 +13,9 @@
 
 <div>
   <a href="https://github.com/pedrobiqua">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrobiqua&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobiqua&layout=compact&langs_count=7&theme=algolia"/>
 </div>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobiqua&show_icons=true)
 
 #### :computer: Most used technologies:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
