@@ -1,14 +1,14 @@
 ### Hi guys, welcome to my GitHub👋
 <h3>みなさん、こんにちは。私のgithubへようこそ</h3>
 
-- 🌱 I’m currently learning C#, Java, C++
-- 🧑‍💻 I'm currently work with this languages PHP and JavaScript/Html/Css 
+- 🌱 I’m currently learning C++
+- 🧑‍💻 I'm currently work with this languages C#, JAVA, PHP and Python
 - 👯 I’m looking to collaborate . . . (Open to oportunities)
 - 💬 Ask me about ...
 - 📫 How to reach me: pedrobiqua@outlook.com
 - ⚡ Fun fact: I like play games with my friends
 - 👨‍💻 My portfolio:  <a href="https://pedrobiqua.github.io/sitePessoal/" target="_blank">My portfolio</a>
-- 🧑‍🏫 Languages: Portuguese 🇧🇷, English 🇺🇸, Japanese 🇯🇵 
+- 🧑‍🏫 Languages: Portuguese 🇧🇷, English 🇺🇸
 
 
 <div>
