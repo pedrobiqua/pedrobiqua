@@ -19,10 +19,6 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobiqua&show_icons=true)
   
-  <br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobiqua)](https://github.com/pedrobiqua/github-readme-stats)
-  
 </div>
 
 #### :computer: Most used technologies:
