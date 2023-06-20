@@ -16,17 +16,15 @@
 </div>
 
 <table>
-  
-  <td>
-    
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobiqua&show_icons=true)
-    
-  </td>
-  <td>
-
-
-  
-  </td>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrobiqua"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobiqua&langs_count=10&layout=compact&hide=hack,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+    </td>
+  </tr>
+ 
   
 </table>
 
