@@ -8,7 +8,7 @@
 - 📫 How to reach me: pedrobiqua@outlook.com
 - ⚡ Fun fact: I like play games with my friends
 - 👨‍💻 My portfolio:  <a href="https://pedrobiqua.github.io/sitePessoal/" target="_blank">My portfolio</a>
-- 🧑‍🏫 Languages: Portuguese 🇧🇷, English 🇺🇸
+- 🧑‍🏫 Languages: Portuguese 🇧🇷, English 🇺🇸, Japanese 🇯🇵
 
 
 <div>
