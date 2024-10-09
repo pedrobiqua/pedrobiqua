@@ -21,7 +21,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrobiqua"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobiqua&langs_count=10&layout=compact&hide=hack,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobiqua&langs_count=10&layout=compact&hide=hack,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby,jupyter%20notebook,java,processing,nix"/>
     </td>
   </tr>
  
