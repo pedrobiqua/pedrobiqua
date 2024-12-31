@@ -22,7 +22,8 @@
 - [songkg/o2#410](https://github.com/songkg7/o2/pull/410) 🚀
 
 ## 📄 Blog Posts <br>
-
+- [2024/12/18 - Building a Library for a Search Engine](https://pedrobiqua.github.io/posts/building-a-library-for-a-search-engine/) <br>
+- [2024/12/09 - Why This Blog?](https://pedrobiqua.github.io/posts/why-blog/) <br>
 
 <!-- View count placeholder -->
 <p align="right">
