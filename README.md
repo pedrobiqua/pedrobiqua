@@ -22,6 +22,7 @@
 - [songkg/o2#410](https://github.com/songkg7/o2/pull/410) 🚀
 
 ## 📄 Blog Posts <br>
+- [2025/01/02 - How to use the O2 plugin for Obsidian](https://pedrobiqua.github.io/posts/How-to-use-the-O2-plugin-for-Obsidian/) <br>
 - [2024/12/18 - Building a Library for a Search Engine](https://pedrobiqua.github.io/posts/building-a-library-for-a-search-engine/) <br>
 - [2024/12/09 - Why This Blog?](https://pedrobiqua.github.io/posts/why-blog/) <br>
 
