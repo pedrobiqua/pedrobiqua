@@ -46,7 +46,7 @@ markdown_text = """
 - 🧑‍💻 I'm currently work with this languages C++, Python, PHP, C# and JAVA
 - 👯 I’m looking to collaborate . . . (Open to oportunities)
 - 📫 How to reach me: pedrobiqua@outlook.com
-- 👨‍💻 My blog:  <a href="https://pedrobiqua.github.io/pedrobiqua.dev/" target="_blank">Coding with Pedro</a>
+- 👨‍💻 My blog:  <a href="https://pedrobiqua.github.io/" target="_blank">Coding with Pedro</a>
 - 🧑‍🏫 Languages: Portuguese 🇧🇷, English 🇺🇸, Japanese 🇯🇵
 
 <div style="display: flex; justify-content: space-between;">
@@ -61,6 +61,7 @@ markdown_text = """
 ## 👥 Contribution
 ### o2
 - [songkg/o2#410](https://github.com/songkg7/o2/pull/410) 🚀
+- [songkg/o2#417](https://github.com/songkg7/o2/pull/417) 🚀
 
 """
 
