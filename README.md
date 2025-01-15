@@ -8,7 +8,7 @@
 - 👨‍💻 My blog:  <a href="https://pedrobiqua.github.io/pedrobiqua.dev/" target="_blank">Coding with Pedro</a>
 - 🧑‍🏫 Languages: Portuguese 🇧🇷, English 🇺🇸, Japanese 🇯🇵
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=pedrobiqua&theme=default&show_icons=true&hide_border=false&count_private=false" alt="pedrobiqua's Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobiqua&theme=default&show_icons=true&hide_border=false&layout=compact&hide=html,css,javascript,jupyter%20notebook,java,hack,processing,hack,scss" alt="pedrobiqua's Top Languages" width="37%" />
 </div>
