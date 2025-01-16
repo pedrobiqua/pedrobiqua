@@ -5,10 +5,10 @@
 - 🧑‍💻 I'm currently work with this languages C++, Python, PHP, C# and JAVA
 - 👯 I’m looking to collaborate . . . (Open to oportunities)
 - 📫 How to reach me: pedrobiqua@outlook.com
-- 👨‍💻 My blog:  <a href="https://pedrobiqua.github.io/pedrobiqua.dev/" target="_blank">Coding with Pedro</a>
+- 👨‍💻 My blog:  <a href="https://pedrobiqua.github.io/" target="_blank">Coding with Pedro</a>
 - 🧑‍🏫 Languages: Portuguese 🇧🇷, English 🇺🇸, Japanese 🇯🇵
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=pedrobiqua&theme=default&show_icons=true&hide_border=false&count_private=false" alt="pedrobiqua's Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobiqua&theme=default&show_icons=true&hide_border=false&layout=compact&hide=html,css,javascript,jupyter%20notebook,java,hack,processing,hack,scss" alt="pedrobiqua's Top Languages" width="37%" />
 </div>
@@ -20,6 +20,7 @@
 ## 👥 Contribution
 ### o2
 - [songkg/o2#410](https://github.com/songkg7/o2/pull/410) 🚀
+- [songkg/o2#417](https://github.com/songkg7/o2/pull/417) 🚀
 
 ## 📄 Blog Posts <br>
 - [2025/01/08 - How to install the Armadillo library](https://pedrobiqua.github.io/posts/How-to-install-the-Armadillo-library/) <br>
