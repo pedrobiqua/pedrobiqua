@@ -23,11 +23,11 @@
 - [songkg/o2#417](https://github.com/songkg7/o2/pull/417) 🚀
 
 ## 📄 Blog Posts <br>
+- [2025/02/02 - My Experience Using UmbrelOS](https://pedrobiqua.github.io/posts/Minha-experiencia-utilizando-o-UmbrelOS/) <br>
 - [2025/01/18 - How to publish a package on PyPI with C++, Cython, and Python](https://pedrobiqua.github.io/posts/How-to-publish-a-package-on-PyPI-with-C-Cython-and-Python/) <br>
 - [2025/01/08 - How to install the Armadillo library](https://pedrobiqua.github.io/posts/How-to-install-the-Armadillo-library/) <br>
 - [2025/01/02 - How to use the O2 plugin for Obsidian](https://pedrobiqua.github.io/posts/How-to-use-the-O2-plugin-for-Obsidian/) <br>
 - [2024/12/18 - Building a Library for a Search Engine](https://pedrobiqua.github.io/posts/building-a-library-for-a-search-engine/) <br>
-- [2024/12/09 - Why This Blog?](https://pedrobiqua.github.io/posts/why-blog/) <br>
 
 <!-- View count placeholder -->
 <p align="right">
