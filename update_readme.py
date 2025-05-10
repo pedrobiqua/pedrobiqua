@@ -43,20 +43,38 @@ markdown_text = """
 ### Hi guys, welcome to my GitHub👋
 <h3>みなさん、こんにちは。私のgithubへようこそ</h3>
 
-- 🧑‍💻 I'm currently work with this languages C++, Python, PHP, C# and JAVA
-- 👯 I’m looking to collaborate . . . (Open to oportunities)
+- 🧑‍💻 I'm currently work with this languages C++, Python
 - 📫 How to reach me: pedrobiqua@outlook.com
 - 👨‍💻 My blog:  <a href="https://pedrobiqua.github.io/" target="_blank">Coding with Pedro</a>
 - 🧑‍🏫 Languages: Portuguese 🇧🇷, English 🇺🇸, Japanese 🇯🇵
 
+<details>
+<summary>Click for GitHub Stats</summary>
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=pedrobiqua&theme=default&show_icons=true&hide_border=false&count_private=false" alt="pedrobiqua's Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobiqua&theme=default&show_icons=true&hide_border=false&layout=compact&hide=html,css,javascript,jupyter%20notebook,java,hack,processing,hack,scss" alt="pedrobiqua's Top Languages" width="37%" />
 </div>
+</details>
 
 <br>
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<p align="center">
+    <a href="https://github.com/pedrobiqua" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@pedrobiqua-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/pedrobiqua" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/pedrobiqua?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+    <a href="https://github.com/pedrobiqua?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/pedrobiqua?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+    <a href="#" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+</p>
+
+<p align="center">
+    <a href="https://github.com/pedrobiqua?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+    <a href="https://github.com/alwinw" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/pedrobiqua/pedrobiqua?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/pedrobiqua/pedrobiqua" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/pedrobiqua/pedrobiqua?label=profile%20updated&style=flat-square"></a>
+</p>
 
 ## 👥 Contribution
 ### o2
