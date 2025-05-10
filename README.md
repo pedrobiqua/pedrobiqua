@@ -32,7 +32,7 @@
 
 <p align="center">
     <a href="https://github.com/pedrobiqua?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/alwinw" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/pedrobiqua/pedrobiqua?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/pedrobiqua" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/pedrobiqua/pedrobiqua?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <a href="https://github.com/pedrobiqua/pedrobiqua" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/pedrobiqua/pedrobiqua?label=profile%20updated&style=flat-square"></a>
 </p>
 
