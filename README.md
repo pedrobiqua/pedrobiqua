@@ -46,8 +46,8 @@
 - [songkg/o2#417](https://github.com/songkg7/o2/pull/417) 🚀
 
 ## 📄 Blog Posts <br>
-- [2025/10/04 - Notas de Laboratório](https://pedrobiqua.dev.br/posts/notas-de-laboratorio/) <br>
-- [2025/08/28 - Objetivos e nova fase do Blog](https://pedrobiqua.dev.br/posts/Meu-projeto-de-mestrado-e-Objetivos/) <br>
+- [2025/10/04 - Laboratory Notes](https://pedrobiqua.dev.br/posts/laboratory-notes/) <br>
+- [2025/08/28 - Goals and a New Phase of the Blog](https://pedrobiqua.dev.br/posts/goals-phase-blog/) <br>
 - [2025/02/02 - My Experience Using UmbrelOS](https://pedrobiqua.dev.br/posts/Minha-experiencia-utilizando-o-UmbrelOS/) <br>
 - [2025/01/18 - How to publish a package on PyPI with C++, Cython, and Python](https://pedrobiqua.dev.br/posts/How-to-publish-a-package-on-PyPI-with-C-Cython-and-Python/) <br>
 - [2025/01/08 - How to install the Armadillo library](https://pedrobiqua.dev.br/posts/How-to-install-the-Armadillo-library/) <br>
