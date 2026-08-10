@@ -1,45 +1,4 @@
-import feedparser
-import requests
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
-from datetime import datetime
 
-# Configuração de sessão com retries
-session = requests.Session()
-retry = Retry(connect=5, backoff_factor=0.5)
-adapter = HTTPAdapter(max_retries=retry)
-session.mount('http://', adapter)
-session.mount('https://', adapter)
-
-# URL do feed RSS
-blog_rss_url = "https://pedrobiqua.dev.br/feed.xml"
-response = session.get(blog_rss_url, verify=True)
-rss_feed = feedparser.parse(response.content)
-
-# Limite máximo de posts exibidos
-MAX_POST_NUM = 5
-
-# Início da lista de posts no formato Markdown
-latest_blog_post_list = "## 📄 Blog Posts <br>\n"
-
-# Iterar pelos posts no feed
-for idx, entry in enumerate(rss_feed.entries):
-    # Filtrar pela categoria "Blog"
-    if not any(category['term'] == "Blog" for category in entry.get('tags', [])):
-        continue
-
-    if idx >= MAX_POST_NUM:
-        break
-
-    # Formatar a data de publicação
-    published_date = datetime.strptime(entry.published, "%Y-%m-%dT%H:%M:%S%z")
-    formatted_date = published_date.strftime("%Y/%m/%d")
-
-    # Adicionar o post à lista
-    latest_blog_post_list += f"- [{formatted_date} - {entry.title.strip()}]({entry.link}) <br>\n"
-
-# Texto inicial do README
-markdown_text = """
 ### Hi guys, welcome to my GitHub👋
 
 - 🧑‍💻 I'm currently work with this languages C++, Python and Java
@@ -77,22 +36,14 @@ markdown_text = """
 - [songkg/o2#410](https://github.com/songkg7/o2/pull/410) 🚀
 - [songkg/o2#417](https://github.com/songkg7/o2/pull/417) 🚀
 
-"""
+## 📄 Blog Posts <br>
+- [2025/10/04 - Laboratory Notes](https://pedrobiqua.dev.br/posts/laboratory-notes/) <br>
+- [2025/08/28 - Goals and a New Phase of the Blog](https://pedrobiqua.dev.br/posts/goals-phase-blog/) <br>
+- [2025/02/02 - My Experience Using UmbrelOS](https://pedrobiqua.dev.br/posts/Minha-experiencia-utilizando-o-UmbrelOS/) <br>
+- [2025/01/18 - How to publish a package on PyPI with C++, Cython, and Python](https://pedrobiqua.dev.br/posts/How-to-publish-a-package-on-PyPI-with-C-Cython-and-Python/) <br>
+- [2025/01/08 - How to install the Armadillo library](https://pedrobiqua.dev.br/posts/How-to-install-the-Armadillo-library/) <br>
 
-# View count placeholder
-view_count = """
 <!-- View count placeholder -->
 <p align="right">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpedrobiqua&count_bg=%23673DC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
-"""
-
-# Combinar todos os textos
-readme_text = f"{markdown_text}{latest_blog_post_list}{view_count}"
-
-# Exibir o texto completo do README
-print(readme_text)
-
-# Opcional: Escrever o conteúdo no arquivo README.md
-with open("README.md", 'w') as f:
-    f.write(readme_text)
