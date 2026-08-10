@@ -41,20 +41,11 @@ for idx, entry in enumerate(rss_feed.entries):
 # Texto inicial do README
 markdown_text = """
 ### Hi guys, welcome to my GitHub👋
-<h3>みなさん、こんにちは。私のgithubへようこそ</h3>
 
-- 🧑‍💻 I'm currently work with this languages C++, Python
+- 🧑‍💻 I'm currently work with this languages C++, Python and Java
 - 📫 How to reach me: pedrobiqua@outlook.com
-- 👨‍💻 My blog:  <a href="https://pedrobiqua.github.io/" target="_blank">Coding with Pedro</a>
+- 👨‍💻 My blog:  <a href="https://pedrobiqua.dev.br/" target="_blank">pedrobiqua.dev</a>
 - 🧑‍🏫 Languages: Portuguese 🇧🇷, English 🇺🇸, Japanese 🇯🇵
-
-<details>
-<summary>Click for GitHub Stats</summary>
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrobiqua&theme=default&show_icons=true&hide_border=false&count_private=false" alt="pedrobiqua's Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobiqua&theme=default&show_icons=true&hide_border=false&layout=compact&hide=html,css,javascript,jupyter%20notebook,java,hack,processing,hack,scss" alt="pedrobiqua's Top Languages" width="37%" />
-</div>
-</details>
 
 <br>
 
